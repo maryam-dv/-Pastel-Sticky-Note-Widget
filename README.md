@@ -2,7 +2,7 @@
 A cute &amp; aesthetic pastel sticky note widget built with Electron.js. It stays on top of your screen, lets you add tasks, check them off, move the widget around, and resize it!
 📂 How to Install & Run
 Step 1: Install Node.js & npm
-Make sure you have Node.js installed. If not, download it here.
+Make sure you have Node.js installed. 
 After installation, check by running:
 node -v
 npm -v
